@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/spfxCharts/SpfxChartsWebPart.js",
+      "manifest": "./src/webparts/spfxCharts/SpfxChartsWebPart.manifest.json",
+      "outputPath": "./dist/spfx-charts.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "spfxChartsStrings": "webparts/spfxCharts/loc/{locale}.js"
+  }
+}

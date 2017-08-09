@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "charts-client-side-solution",
+    "id": "782b294f-5605-43df-890b-2ccfce876f08",
+    "version": "1.0.0.5"
+  },
+  "paths": {
+    "zippedPackage": "solution/charts.sppkg"
+  }
+}

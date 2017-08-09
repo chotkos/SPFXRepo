@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/spfxList/SpfxListWebPart.js",
+      "manifest": "./src/webparts/spfxList/SpfxListWebPart.manifest.json",
+      "outputPath": "./dist/spfx-list.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "spfxListStrings": "webparts/spfxList/loc/{locale}.js"
+  }
+}

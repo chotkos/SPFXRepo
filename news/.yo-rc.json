@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "setpfx-news",
+    "framework": "none",
+    "version": "1.0.0",
+    "libraryId": "f49c8680-d221-4d54-b709-e532c5ddf8e2"
+  }
+}

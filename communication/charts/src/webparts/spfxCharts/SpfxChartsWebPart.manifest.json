@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "6f9db714-647b-4bfa-a7d8-edb2af1e4a0b",
+  "alias": "SpfxChartsWebPart",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "6f9db714-647b-4bfa-a7d8-edb2af1e4a0b",
+    "group": { "default": "Under Development" },
+    "title": { "default": "spfx-charts" },
+    "description": { "default": "simple charts connected to spfx-list WebPart" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "spfx-charts"
+    }
+  }]
+}

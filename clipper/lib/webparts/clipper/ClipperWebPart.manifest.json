@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "85ee4816-6756-4e13-949f-5ed9d86971bb",
+  "alias": "ClipperWebPart",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "85ee4816-6756-4e13-949f-5ed9d86971bb",
+    "group": { "default": "Under Development" },
+    "title": { "default": "clipper" },
+    "description": { "default": "Mr. Clipper comes back" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "clipper"
+    }
+  }]
+}

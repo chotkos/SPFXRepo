@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "clipper-client-side-solution",
+    "id": "9175a100-b6e7-4a4b-b4d8-83c0b6d287aa",
+    "version": "1.0.0.1"
+  },
+  "paths": {
+    "zippedPackage": "solution/clipper.sppkg"
+  }
+}

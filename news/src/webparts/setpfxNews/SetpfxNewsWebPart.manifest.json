@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "866e2532-09f6-4dc6-8c23-feea6071a721",
+  "alias": "SetpfxNewsWebPart",
+  "componentType": "WebPart",
+  "version": "0.1.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "866e2532-09f6-4dc6-8c23-feea6071a721",
+    "group": { "default": "Under Development" },
+    "title": { "default": "setpfx_news" },
+    "description": { "default": "Webpart that shows newsfeed of your sharepoint site." },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "setpfx_news"
+    }
+  }]
+}

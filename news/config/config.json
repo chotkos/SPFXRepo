@@ -1,0 +1,16 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/setpfxNews/SetpfxNewsWebPart.js",
+      "manifest": "./src/webparts/setpfxNews/SetpfxNewsWebPart.manifest.json",
+      "outputPath": "./dist/setpfx-news.bundle.js"
+    }
+  ],
+  "externals": {  
+    "jquery":"node_modules/jquery/dist/jquery.min.js",
+    "jqueryui":"node_modules/jqueryui/jquery-ui.min.js"   
+  },
+  "localizedResources": {
+    "setpfxNewsStrings": "webparts/setpfxNews/loc/{locale}.js"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "d2b3fcb1-f5dd-4634-bf31-412d9226c371",
+  "alias": "SpfxListWebPart",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "d2b3fcb1-f5dd-4634-bf31-412d9226c371",
+    "group": { "default": "Under Development" },
+    "title": { "default": "spfx-list" },
+    "description": { "default": "Simple list of mocked data" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "spfx-list"
+    }
+  }]
+}

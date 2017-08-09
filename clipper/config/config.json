@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/clipper/ClipperWebPart.js",
+      "manifest": "./src/webparts/clipper/ClipperWebPart.manifest.json",
+      "outputPath": "./dist/clipper.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "clipperStrings": "webparts/clipper/loc/{locale}.js"
+  }
+}
