@@ -2,13 +2,13 @@
 /* tslint:disable */
 require('./Clipper.module.css');
 var styles = {
-    helloWorld: 'helloWorld_01693f3b',
-    container: 'container_01693f3b',
-    row: 'row_01693f3b',
-    listItem: 'listItem_01693f3b',
-    button: 'button_01693f3b',
-    label: 'label_01693f3b',
-    mrClipper: 'mrClipper_01693f3b',
+    helloWorld: 'helloWorld_f2f2fb2c',
+    container: 'container_f2f2fb2c',
+    row: 'row_f2f2fb2c',
+    listItem: 'listItem_f2f2fb2c',
+    button: 'button_f2f2fb2c',
+    label: 'label_f2f2fb2c',
+    mrClipper: 'mrClipper_f2f2fb2c',
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = styles;

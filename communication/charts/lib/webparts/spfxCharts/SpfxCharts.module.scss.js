@@ -2,12 +2,12 @@
 /* tslint:disable */
 require('./SpfxCharts.module.css');
 var styles = {
-    helloWorld: 'helloWorld_61229fae',
-    container: 'container_61229fae',
-    row: 'row_61229fae',
-    listItem: 'listItem_61229fae',
-    button: 'button_61229fae',
-    label: 'label_61229fae',
+    helloWorld: 'helloWorld_2249d9c5',
+    container: 'container_2249d9c5',
+    row: 'row_2249d9c5',
+    listItem: 'listItem_2249d9c5',
+    button: 'button_2249d9c5',
+    label: 'label_2249d9c5',
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = styles;

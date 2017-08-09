@@ -2,22 +2,22 @@
 /* tslint:disable */
 require('./SetpfxNews.module.css');
 var styles = {
-    container: 'container_6e871958',
-    row: 'row_6e871958',
-    listItem: 'listItem_6e871958',
-    button: 'button_6e871958',
-    label: 'label_6e871958',
-    newsContainer: 'newsContainer_6e871958',
-    greyImage: 'greyImage_6e871958',
-    colorLayer: 'colorLayer_6e871958',
-    textLayer: 'textLayer_6e871958',
-    textLayerArticle: 'textLayerArticle_6e871958',
-    noInterline: 'noInterline_6e871958',
-    articleContainer: 'articleContainer_6e871958',
-    greyImageArticle: 'greyImageArticle_6e871958',
-    colorLayerArticle: 'colorLayerArticle_6e871958',
-    newsContainerArticle: 'newsContainerArticle_6e871958',
-    moreBtn: 'moreBtn_6e871958',
+    container: 'container_f86c9d6e',
+    row: 'row_f86c9d6e',
+    listItem: 'listItem_f86c9d6e',
+    button: 'button_f86c9d6e',
+    label: 'label_f86c9d6e',
+    newsContainer: 'newsContainer_f86c9d6e',
+    greyImage: 'greyImage_f86c9d6e',
+    colorLayer: 'colorLayer_f86c9d6e',
+    textLayer: 'textLayer_f86c9d6e',
+    textLayerArticle: 'textLayerArticle_f86c9d6e',
+    noInterline: 'noInterline_f86c9d6e',
+    articleContainer: 'articleContainer_f86c9d6e',
+    greyImageArticle: 'greyImageArticle_f86c9d6e',
+    colorLayerArticle: 'colorLayerArticle_f86c9d6e',
+    newsContainerArticle: 'newsContainerArticle_f86c9d6e',
+    moreBtn: 'moreBtn_f86c9d6e',
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = styles;
